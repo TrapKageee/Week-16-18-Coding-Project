@@ -1,0 +1,27 @@
+/* src/App.css */
+body{
+   color: rgb(0, 0, 0);
+}
+
+.app-container {
+   max-width: 1200px; /* Set a max-width for better alignment */
+   margin: 0 auto; /* Center horizontally */
+   padding: 0 20px; /* Add padding for spacing */
+   text-align: center; /* Center text */
+ }
+ 
+ nav ul {
+   list-style-type: none;
+   padding: 0;
+ }
+ 
+ nav ul li {
+   display: inline;
+   margin: 0 10px;
+ }
+ 
+ footer {
+   text-align: center;
+   padding: 20px 0;
+ }
+ 
